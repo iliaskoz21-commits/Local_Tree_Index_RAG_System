@@ -31,19 +31,20 @@ This repository demonstrates professional-grade AI Engineering skills including:
 This project is an implementation based on the groundbreaking work of the **PageIndex Team**. It adapts the "Vectorless, Reasoning-based RAG" philosophy to a practical, local-first application using Python and Streamlit.
 
 
-A Project by: aMingtian Zhang, Yu Tang and PageIndex Team,  
+Pageindex is a Project created by Mingtian Zhang, Yu Tang and PageIndex Team,  
 "PageIndex: Next-Generation Vectorless, Reasoning-based RAG",  
 PageIndex Blog, Sep 2025.
 
-**BibTeX Citation:**
+If you find this project useful, please cite the original PageIndex research:
 ```bibtex
 @article{zhang2025pageindex,
-  author = {Mingtian Zhang and Yu Tang and PageIndex Team},
-  title = {PageIndex: Next-Generation Vectorless, Reasoning-based RAG},
-  journal = {PageIndex Blog},
-  year = {2025},
-  month = {September},
-  note = {[https://pageindex.ai/blog/pageindex-intro](https://pageindex.ai/blog/pageindex-intro)},
+  title={PageIndex: Next-Generation Vectorless, Reasoning-based RAG},
+  author={Zhang, Mingtian and Tang, Yu and {PageIndex Team}},
+  journal={PageIndex Blog},
+  year={2025},
+  month={September},
+  url={[https://github.com/pageindex/pageindex](https://github.com/pageindex/pageindex)}
+}
 }
 🚀 Getting Started
 Clone & Setup:
