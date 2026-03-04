@@ -30,9 +30,8 @@ This repository demonstrates professional-grade AI Engineering skills including:
 ## 📖 Acknowledgments & Originality
 This project is an implementation based on the groundbreaking work of the **PageIndex Team**. It adapts the "Vectorless, Reasoning-based RAG" philosophy to a practical, local-first application using Python and Streamlit.
 
-### Support Us
-Please cite this work as:
-Mingtian Zhang, Yu Tang and PageIndex Team,  
+
+A Project by: aMingtian Zhang, Yu Tang and PageIndex Team,  
 "PageIndex: Next-Generation Vectorless, Reasoning-based RAG",  
 PageIndex Blog, Sep 2025.
 
